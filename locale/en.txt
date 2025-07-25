@@ -1,0 +1,54 @@
+#: locale=en
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_2AB460D7_3EFC_F197_41C0_D30C2797A337.toolTip = به سمت چای خانه
+HotspotPanoramaOverlayArea_23AF4635_3E37_70AA_41A0_552445CF4AA6.toolTip = خروج
+HotspotPanoramaOverlayArea_27077684_3E0B_5069_41C3_EB819BA137F0.toolTip = داخل آلاچیق
+HotspotPanoramaOverlayArea_2DBE4A04_3EF5_506A_41A1_7C3EA6BB424A.toolTip = دید از بالا
+HotspotPanoramaOverlayArea_2C9BAEEF_3E0C_F1B7_41C6_FFDD9D78645D.toolTip = نمای قبل از ورودی
+HotspotPanoramaOverlayArea_2F9106B0_3E0D_51AA_41C3_9F3A7ED2C081.toolTip = ورودی
+HotspotPanoramaOverlayArea_2A935EE6_3E0B_51A9_41CB_1945FD5FD4E0.toolTip = پذیرش
+
+## Media
+
+### Title
+panorama_3116C71B_3E37_B09E_41BA_9E2EB1CBF482.label = 1
+panorama_32C396BC_3E34_B199_41BC_35E636D07D17.label = 2
+panorama_32C45CD8_3E37_519A_419D_8164BBE99AD2.label = 3
+panorama_32C4116A_3E34_D0B9_41C4_D3BB110844CC.label = 4
+panorama_32C65FDD_3E35_4F9A_41C1_F5562689FADE.label = 4.4
+panorama_32C69241_3E34_D0EA_41C2_DEBFD1EE6B0D.label = 5
+panorama_32C6F24A_3E0B_50F9_41AE_9FBCDF0033C9.label = 6
+panorama_32C436A8_3E34_B1BA_41C9_BAF6949C76EC.label = IMG_20250724_172331_00_140_PureShot
+panorama_32C5D0A7_3E0B_51B6_41B6_3C3C707A4349.label = avale alachigh
+panorama_32C5AF97_3E0B_4F96_41C9_2B4BF432A922.label = dovo alaghigh
+panorama_32C6517B_3E0B_D09E_41C7_1C308F696738.label = kenar vasat
+panorama_32C65201_3E0B_506A_41BC_072A529F8436.label = paziresh
+panorama_32C621A2_3E0B_D3AE_41C7_1438E76FF03D.label = vasate rahro voroodi
+panorama_32C65FA0_3E35_4FA9_41C0_7CEE0459ED01.label = اجاق
+panorama_32C32E56_3E0D_7096_41C4_98803BFD7953.label = اخخخر اخر
+panorama_32C47AA4_3E35_71AA_41CC_C02A64AD8696.label = اخر چای
+panorama_32C43315_3E34_F06B_4189_489625B8B5FD.label = اول چای خانه
+panorama_33A5ED64_3E34_F0A9_41B1_6E2430F2CA40.label = بالا دوم
+panorama_32C1EEC3_3E0C_B1EE_41C5_73AAB116F60E.label = دوم چپ
+panorama_32C25E6B_3E0C_F0BE_41C6_AF6BAA9BC309.label = سوم الاچ
+panorama_32C2DEC8_3E0C_B1F9_41B6_8E368EDF4383.label = چهارم الاچ
+panorama_32C6FC74_3E35_B0A9_41C5_F97DEEE7E428.label = کنار اخر چای
+panorama_32C24E4D_3E0D_B0FB_41B3_613FBEEAE4AB.label = کنار جوب
+panorama_32DD3F35_3E0D_F0AB_4187_3A20BCE3410A.label = کنار دوم چپ
+panorama_32C79E07_3E35_F076_41CA_78FD60CAD043.label = کنار دکه
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 6
